@@ -1,0 +1,45 @@
+body {
+    background-color:  pink;
+    color:  rgb(82, 75, 75);
+    padding: 1rem;
+}
+ h1 {
+     background-color: rgb(199, 94, 112);
+     color: whitesmoke;
+     text-align: center;
+     padding: 1.5rem;
+     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+ }
+
+ nav {
+    text-align: center;
+    font-weight: bold;
+    font-style: oblique;
+    background-color:rgb(158, 158, 158);
+    padding: 1rem;
+ }
+
+ h3 {
+     color: black;
+     padding: 1rem;
+     background-color: white; 
+     font-family: cursive;
+ }
+
+ img {
+     padding: 1rem;
+ }
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+  }
+
+  footer {
+      background-color:rgb(199, 94, 112);
+      font-style: italic;
+      color: white;
+      text-align: center;
+  }
